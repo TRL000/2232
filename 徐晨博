@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>trl</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+      background-color: #00ffff;
+      text-align: center;
+      padding: 40px;
+    ">
+      <img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.JmD52xDNGdHG_7mpQSz77AHaEo?w=297&h=185&c=7&r=0&o=5&pid=1.7" alt="陶润霖" width="80px" height="80px"
+    </div> 
+    <div style="
+      max-width: 700px;
+      margin: 30px auto;
+      padding: 15px;
+      line-height: 1.7;
+      color: red;
+    "> 
+      <p></p>
+      <p>   66</p>
+      <p</p>
+      <p>徐晨博你好呀~~~~~</p>
+      <p>zz</p>
+      <p>yy</p>
+      <p>HH</p>
+      <p>vv</p>
+    </div>
+    <div style="
+      background-color: #f1f1f1;
+      text-align: center;
+      padding: 40px;
+      font-size: 12px;
+   ">
+      <p>我的网站</p>
+      <a href="https://github.com/TRL000/-12310123.git">友情链接</a>
+   </div>
+  </body>
+</html>
